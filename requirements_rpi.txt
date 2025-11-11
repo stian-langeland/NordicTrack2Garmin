@@ -1,0 +1,9 @@
+# Raspberry Pi Requirements
+# These are system packages - install with apt-get
+
+# System dependencies (install with apt-get):
+# sudo apt-get update
+# sudo apt-get install -y python3-dbus python3-gi python3-pip bluez
+
+# No pip packages required for the Raspberry Pi version
+# The script uses system-provided dbus and gi libraries
